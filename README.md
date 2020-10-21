@@ -2,9 +2,6 @@
 
 ### Hello! 👋🏻
 
-<a href="https://discord.com/users/593774699654283265">
-  <img align="left" alt="Discord's User" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 
 <br />
 
