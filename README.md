@@ -13,6 +13,10 @@ Hi, I'm Xyszx, a Front-End Developer, Back-End Developer from Earth.
 - 🔭 Working on JavaScript
 - 🌎 Find me on <a href="https://discord.com/users/593774699654283265">Discord</a>
 
+**My Discord**
+
+# ![Discord](https://discord.c99.nl/widget/theme-2/593774699654283265.png)
+
  **My Friends**
  
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
