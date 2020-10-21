@@ -18,7 +18,8 @@ Hi, I'm Xyszx, a Front-End Developer, Back-End Developer from Earth.
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
 - **[@Allvaa](https://github.com/Allvaa)**
 - **[@WilloIzCitron](https://github.com/WilloIzCitron)**
-- **[@Jovantri10](https://github.com/Jovantri10)**
+- **[@YuriAkari](https://github.com/YuriAkari)**
+- **[@Jovantri10](https://github.com/Jovantri10)** 
 
 **Tool & Languages**  
 
