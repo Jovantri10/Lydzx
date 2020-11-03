@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm Xyszx, a Front-End Developer, Back-End Developer from Earth.
+Hi, I'm Lydzx, a Front-End Developer, Back-End Developer from Earth.
 
 **About Me**
 
