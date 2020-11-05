@@ -15,6 +15,7 @@ Hi, I'm Lydzx, a Front-End Developer, Back-End Developer from Earth.
 
  **My Friends**
  
+- **[@Pramac](https://github.com/Pramac)**
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
 - **[@Allvaa](https://github.com/Allvaa)**
 - **[@WilloIzCitron](https://github.com/WilloIzCitron)**
