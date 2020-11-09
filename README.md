@@ -9,18 +9,16 @@ Hi, I'm Lydzx, a Front-End Developer, Back-End Developer from Earth.
 
 **About Me**
 
-- 💻 Working on my Discord bot project
-- 🔭 Working on JavaScript
+- ✨ Nothing special is in my life.
 - 🌎 Find me on <a href="https://discord.com/users/593774699654283265">Discord</a>
 
  **My Friends**
  
+- **[@YuriAkari](https://github.com/YuriAkari)**
 - **[@Pramac](https://github.com/Pramac)**
 - **[@VeguiIzumi](https://github.com/VeguiIzumi)**
 - **[@Allvaa](https://github.com/Allvaa)**
 - **[@WilloIzCitron](https://github.com/WilloIzCitron)**
-- **[@YuriAkari](https://github.com/YuriAkari)**
-- **[@Jovantri10](https://github.com/Jovantri10)** 
 
 **Tool & Languages**  
 
